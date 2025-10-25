@@ -1,0 +1,10 @@
+kmod-inet-diag
+
+kmod-tun
+
+kmod-nf-tproxy
+
+kmod-nft-tproxy
+
+ip-full
+
