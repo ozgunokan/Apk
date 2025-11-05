@@ -1,8 +1,6 @@
 git clone https://github.com/openwrt/openwrt.git openwrt-cerrahi
 cd openwrt-cerrahi
-
 git checkout v24.10.2
-git switch -c onhub-stabil-cerrahi
 git remote add asvio https://github.com/asvio/R7800-nss.git
 git fetch asvio
 git log v24.10.2..asvio/r7800-24.10-nss --oneline
